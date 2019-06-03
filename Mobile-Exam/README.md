@@ -1,6 +1,6 @@
 # Button to Action app
 ## Medallia Digital - Mobile exam
-### In this exam, you are asked to write the "Button to Action" Android and iOS app.
+### In this exam, you are asked to write the "Button to Action" Android or iOS app.
 
 * This app has only 1 button
 * Tapping on this button performs one of the [actions](#actions) below
@@ -8,11 +8,11 @@
 
 
 #### Pre Conditions
-* Clone the project to your machine
-* Create a new branch with your name e.g. john_smith
+* Start a new project on your machine
 * Read the implementation guidelines section
 * Implement :)
-* Push your implementation and let us know (send us an email)
+* Create a project on Github 
+* Send us the repo link when you finish :) 
 
 ### Implementation guidelines
 #### Actions
@@ -25,7 +25,7 @@ The app should support the following actions:
 
 * Keep in mind that in the future, the app should be able to support actions that are more complex than the actions above.
 
-- When the user tap the button, one action should be chosen randomly and performed.
+- When the user tap the button, one action should be chosen by the actions settigns.
 
 ##### Configuration 
 
@@ -69,7 +69,7 @@ The configuration values:
 ### Notes
 * Use proper OOP design
 * Address edge cases
-* When done, send the branch github link to our email
+* When done, send the github link to our email
 
 
 # Good Luck
