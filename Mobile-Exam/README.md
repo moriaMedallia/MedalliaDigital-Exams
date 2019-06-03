@@ -68,7 +68,6 @@ The configuration values:
 
 ### Notes
 * Use proper OOP design
-* Third party libraries is a bonus
 * Address edge cases
 * When done, send the branch github link to our email
 
