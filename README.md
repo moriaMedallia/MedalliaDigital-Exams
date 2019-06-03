@@ -2,8 +2,8 @@
 ## Please choose your exams:
 
 
-[CORD Mobile Exam](./CORD-Mobile-Exam/README.md)
-[Mobile Exam](./Mobile-Exam/README.md)
+* [CORD Mobile Exam](./CORD-Mobile-Exam/README.md)
+* [Mobile Exam](./Mobile-Exam/README.md)
 
 
 #### For any help please contact us 
