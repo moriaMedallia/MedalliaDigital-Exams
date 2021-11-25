@@ -1,7 +1,8 @@
 # Button to Action app
 ## Medallia Digital - Mobile exam
-### In this exam, you are asked to write the "Button to Action" ReactNative or Flutter
+### In this exam, you are asked to write the "Button to Action" In Hybrid Platform
 
+* You can use ReactNative or Flutter
 * This app has only 1 button
 * Tapping on this button will show an alert
 * You can choose how to implement the alert component
