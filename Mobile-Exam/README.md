@@ -26,8 +26,7 @@
 
 ##### Configuration 
 
-Fetch the configuration from:
-https://raw.githubusercontent.com/medallia-digital/Exams-Data/master/mobileData.json
+Fetch the configuration from the file actionConfiguration.json
 
 The way an action is chosen is according to the configuration values retrieved from the configuration json above.
 The configuration values:
