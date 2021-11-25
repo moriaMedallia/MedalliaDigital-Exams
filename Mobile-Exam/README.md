@@ -23,7 +23,7 @@
 
 * Keep in mind that in the future, the app should be able to support more types, other than alert.
 
-- When the user tap the button, one action should be chosen by the actions settigns.
+- When the user taps the button, one action should be chosen by the actions settings.
 
 ##### Configuration 
 
