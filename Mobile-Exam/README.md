@@ -26,7 +26,7 @@
 
 ##### Configuration 
 
-Fetch the configuration from the file actionConfiguration.json
+Fetch the configuration from the file https://raw.githubusercontent.com/moriaMedallia/Mobile-Exam/master/actionConfiguration.json 
 
 The way an action is chosen is according to the configuration values retrieved from the configuration json above.
 The configuration values:
